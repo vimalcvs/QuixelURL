@@ -19,24 +19,7 @@
         }
       ],
       "image": "https://jsonparsingdemo-cec5b.firebaseapp.com/jsonData/images/avengers.jpg",
-      "story": "<p>CPU द्वारा वर्तमान में किये जा रहे कार्यों का डाटा और निर्देश Store रहते हैं. यह मेमोरी CPU का भाग होती हैं. इसलिए इसका डाटा Direct Access किया जा सकता है.</p>
-<p>RAM में डाटा और निर्देश <b>Cells</b> में Store रहता हैं. प्रत्येक Cell कुछ Raws एवं Columns से मिलकर बना होता हैं, जिसका अपना Unique Address होता हैं. इसे Cell Path भी कहते है. CPU इन Cells से अलग-अलग डाटा प्राप्त कर सकता हैं. और वो भी बिना Sequent के मतलब RAM में उपलब्ध डाटा को Randomly Access किया जा सकता हैं. शायद इसी विशेषता के कारण इस मेमोरी का नाम Random Access Memory रखा गया हैं.</p>
-
-
-<figure class="wp-block-image">
-<img src="./images/computer-ram.webp"/>
-<figcaption>मदरबोर्ड में RAM को लगाते हुए</figcaption></figure>
-<p>RAM एक Volatile Memory होती हैं. इसलिए इसमे Store Data हमेशा के लिए स्टोर नही रहता है. जब तक RAM में Power Supply On रहती है. तब तक डाटा रहता हैं. Computer Shut Down होने पर RAM का सारा डाटा स्वत: डिलित हो जाता हैं.</p>
-<h2>RAM की विशेषताएँ</h2>
-<ul>
-<li>CPU का भाग होती हैं.</li>
-<li>इसके बिना कम्प्युटर अपना काम नही कर सकता हैं.</li>
-<li>कम्प्युटर की प्राथमिक मेमोरी होती हैं.</li>
-<li>उपलब्ध डाटा Randomly Access कर सकते है.</li>
-<li>अस्थायी मगर तेज होती हैं.</li>
-<li>RAM मंहगी होती हैं.</li>
-<li>Storage से भिन्न होती हैं.</li>
-</ul>"
+      "story": "vimalcvs"
     },
     {
       "movie": "Interstellar",
